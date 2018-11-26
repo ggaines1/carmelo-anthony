@@ -1,0 +1,12 @@
+.jumbotron{
+  background-image: url("img/meloCollage.jpg");
+}
+
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: black;
+}
+img{
+  height: 400px;
+}
